@@ -4,6 +4,7 @@ description: "Lecture notes on the modeling of rotational systems and updated ta
   \ of generalized elements to include rotational\r\nelements."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-004-dynamics-and-control-ii-spring-2008/c06ea910fbd7eb70cd197e320d4dffa2_lecture_14.pdf
 file_type: application/pdf
+parent_uid: 8ed54b04-44e9-89e3-2cf7-3a4b3a0078c1
 resourcetype: Document
 title: Lecture 14
 uid: c06ea910-fbd7-eb70-cd19-7e320d4dffa2

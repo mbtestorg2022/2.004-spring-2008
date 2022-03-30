@@ -7,6 +7,7 @@ description: Lab assignment on construction and testing of an op-amp differentia
   measured performance with predictions based on the pre-lab exercise.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-004-dynamics-and-control-ii-spring-2008/cd34e5ef80d04efc3aa1099620d5178f_lab3.pdf
 file_type: application/pdf
+parent_uid: 8be49c35-d622-84b9-3542-9b068070e01f
 resourcetype: Document
 title: 'Lab 3: Construction of a Proportional Velocity Controller'
 uid: cd34e5ef-80d0-4efc-3aa1-099620d5178f

@@ -4,6 +4,7 @@ description: Lecture notes on determining stability bounds in closed-loop system
   some basic properties of root locus plots, and root locus methods.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-004-dynamics-and-control-ii-spring-2008/1d064a95d6b00ce4e8683b3619507e5e_lecture_26.pdf
 file_type: application/pdf
+parent_uid: 8ed54b04-44e9-89e3-2cf7-3a4b3a0078c1
 resourcetype: Document
 title: Lecture 26
 uid: 1d064a95-d6b0-0ce4-e868-3b3619507e5e

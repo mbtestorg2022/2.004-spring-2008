@@ -5,6 +5,7 @@ description: Lecture notes on root locus development, geometric evaluation of th
   root locus for large values of K.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-004-dynamics-and-control-ii-spring-2008/c876a2f5d522fd4229546d3cac251590_lecture_27.pdf
 file_type: application/pdf
+parent_uid: 8ed54b04-44e9-89e3-2cf7-3a4b3a0078c1
 resourcetype: Document
 title: Lecture 27
 uid: c876a2f5-d522-fd42-2954-6d3cac251590
